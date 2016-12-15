@@ -82,4 +82,6 @@ production:
   <<: *default
   database: insiderAPI_production
   username: insiderAPI
+  host: localhost
+  port: 5432
   password: <%= ENV['INSIDERAPI_DATABASE_PASSWORD'] %>
