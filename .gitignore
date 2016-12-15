@@ -18,3 +18,4 @@
 
 # Ignore ENV file
 .env
+.rbenv-vars
