@@ -19,3 +19,4 @@
 # Ignore ENV file
 .env
 .rbenv-vars
+.DS_STORE
